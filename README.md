@@ -34,19 +34,21 @@ This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.t
 
 ## 1: Clone the repository:
 
-git clone https://github.com/ERROR1099/WEBSRC.git
+`git clone https://github.com/ERROR1099/WEBSRC.git`
 
 ## 2: Project directory:
 
-cd WEBSRC
+`cd WEBSRC`
    
 ## 3: Install the dependencies:
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
    
 ## 4: Run the script:
 
-python websrc.py
+`python websrc.py`
+
+## Enjoy!
    
    
 
