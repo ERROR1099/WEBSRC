@@ -1,8 +1,6 @@
 # WEBSRC
 # Introduction:
-Sure, here's a brief description you can use for your GitHub repository:
 
----
 
 ## Website Information Scraper
 
