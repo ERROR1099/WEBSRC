@@ -1,5 +1,4 @@
-# WEBSRC
-# Introduction:
+# WEBSRC Introduction:
 
 
 ## Website Information Scraper
@@ -31,7 +30,7 @@ This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.t
 
 --- 
 
-## Installation
+# Installation
 
 ## 1: Clone the repository:
 
