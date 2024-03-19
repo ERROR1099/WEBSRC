@@ -1,19 +1,19 @@
 # WEBSRC
 ## Installation
 
-# Clone the repository:
+## Clone the repository:
 
 git clone https://github.com/ERROR1099/WEBSRC.git
 
-# Project directory:
+## Project directory:
 
 cd WEBSRC
    
-# Install the dependencies:
+## Install the dependencies:
 
 pip install -r requirements.txt
    
-# Run the script:
+## Run the script:
 
 python websrc.py
    
